@@ -1,0 +1,4 @@
+streamlit==1.5.0  # 你的Streamlit版本
+pandas==2.3.3      # 其他依赖
+scikit-learn==1.7.1  # 新增：安装scikit-learn
+numpy==2.0.1    # numpy版本
