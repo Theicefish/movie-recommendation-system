@@ -50,7 +50,7 @@ movie-recommendation-system/
 
 1. **克隆项目到本地**
    ```bash
-   git clone https://github.com/Theicefish/-.git
+   git clone https://github.com/Theicefish/movie-recommendation-system.git
    cd movie-recommendation-system
    ```
 
@@ -122,18 +122,11 @@ similarity(A, B) = (A · B) / (||A|| × ||B||)
 ## 🎯 功能演示
 
 ### 主界面
-![主界面截图](https://via.placeholder.com/800x400?text=Movie+Recommendation+Interface)
+
 
 ### 推荐结果
 ![推荐结果截图](https://via.placeholder.com/800x400?text=Recommendation+Results)
 
-## 📈 性能评估
-
-在测试集上，本推荐系统的性能表现如下：
-
-- **RMSE (均方根误差)**: 0.89
-- **Precision@10**: 0.42
-- **Recall@10**: 0.38
 
 ## 🔧 自定义开发
 
